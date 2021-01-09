@@ -1,0 +1,12 @@
+// This file indicates that, the current workspace is JS project and makes available certain features provided by JS Server
+
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
